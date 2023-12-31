@@ -1,8 +1,30 @@
-### Hi there 👋
+<h1>Hi, I am Dixie! <br/><a href="Profile!">IT and Cyber Security Professional</a></h1>
+
+<h2>🔖 Certifications:</h2>
+<h4>Coursera:</h4>
+- Google Cyber Security Professional<br>
+- Google Information Technology Professional<br>
+- Google Data Analysis Professional  
+
+<h2>🌱 I’m currently working on:</h2>
+- CompTIA Sec+ Certification <br>
+- Card Game via Swift Programming Language
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h3><a href="https://academy.hackthebox.com/">Hack the Box</a></h3>
+-<a href="https://academy.hackthebox.com/achievement/842257/34">Into to Networking</a>
+<br>
+-<a href="https://academy.hackthebox.com/achievement/842257/148)">Incident Handling Process
+<br>
+- Other
+<h3><a href="https://tryhackme.com/">Try Hack Me</a></h3>
+
+<h2>📺 Coding Labs:</h2>
+<h4>Mimo</h4>
+<h3>Free Coding Camp</h3>
+- HTML
 
 <!--
-**DixieReed/DixieReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
