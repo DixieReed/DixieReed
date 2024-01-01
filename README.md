@@ -8,7 +8,7 @@
 
 <h2>🌱 I’m currently working on:</h2>
 - CompTIA Sec+ Certification <br>
-- Card Game via Swift Programming Language
+- Basic comprehension of Swift Programming Language
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <h3><a href="https://academy.hackthebox.com/">Hack the Box</a></h3>
