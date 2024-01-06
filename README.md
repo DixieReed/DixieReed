@@ -9,7 +9,7 @@
 <h2>🌱 I’m currently working on:</h2>
 - CompTIA Sec+ Certification <br>
 - Basic comprehension of Swift Programming Language <br>
-- ASU Code and Programming for beginners: Learn more <a href="https://gostudyhall.com/courses/principles-of-programming-cse-110/">here</a>
+- ASU Principles of Programming: Learn more <a href="https://gostudyhall.com/courses/principles-of-programming-cse-110/">here</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <h3><a href="https://academy.hackthebox.com/">Hack the Box</a></h3>
 -<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank" rel="noopener noreferrer">Intro to Networking</a>
