@@ -8,8 +8,8 @@
 
 <h2>🌱 I’m currently working on:</h2>
 - CompTIA Sec+ Certification <br>
-- Basic comprehension of Swift Programming Language
-- ASU Code and Programming for beginners: Learn more <a herf="https://gostudyhall.com/courses/global-history-since-1500-hst-101/">here</a>
+- Basic comprehension of Swift Programming Language <br>
+- ASU Code and Programming for beginners: Learn more <a href="https://gostudyhall.com/courses/global-history-since-1500-hst-101/">here</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <h3><a href="https://academy.hackthebox.com/">Hack the Box</a></h3>
 -<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank" rel="noopener noreferrer">Intro to Networking</a>
