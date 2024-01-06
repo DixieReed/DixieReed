@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <h3><a href="https://academy.hackthebox.com/">Hack the Box</a></h3>
--<a href="https://academy.hackthebox.com/achievement/842257/34">Into to Networking</a>
+-<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank">Intro to Networking</a>
 <br>
 -<a href="https://academy.hackthebox.com/achievement/842257/148)">Incident Handling Process</a>
 <br >
