@@ -1,4 +1,4 @@
-<h1>Hi, I am Dixie! <br/><a href="Profile!">IT and Cyber Security Professional</a></h1>
+<h1>Hi, I am Dixie! <br/>IT and Cyber Security Professional</h1>
 
 <h2>🔖 Certifications:</h2>
 - Data Analytics by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/CKA9LKY9XSVS">certificate</a> earned on October 1, 2023
