@@ -21,7 +21,7 @@
 <h2>📺 Coding Labs:</h2>
 <p><strong>HTML/CSS</strong>
 <br>
-  - <a href="PlaceHolder">PLACEHOLDER LINK HTML Registration Form</a>
+  - <a href="https://github.com/DixieReed/RegistrationFormBasic">HTML Registration Form</a>
 </p>
 
 <p>
