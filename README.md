@@ -12,20 +12,15 @@
 - ASU Principles of Programming: Learn more <a href="https://gostudyhall.com/courses/principles-of-programming-cse-110/">here</a>
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
-<h3><a href="https://academy.hackthebox.com/">Hack the Box</a></h3>
--<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank" rel="noopener noreferrer">Intro to Networking</a>
+-<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank" rel="noopener noreferrer"> Intro to Networking</a>
 <br>
--<a href="https://academy.hackthebox.com/achievement/842257/148)">Incident Handling Process</a>
+-<a href="https://academy.hackthebox.com/achievement/842257/148)"> Incident Handling Process</a>
 <br >
-- Other
-<h3><a href="https://tryhackme.com/">Try Hack Me</a></h3>
 
 <h2>📺 Coding Labs:</h2>
-<h4>Mimo</h4>
-<h3>Free Coding Camp</h3>
-- HTML
+<h5>HTML/CSS</h5>
 
-<h4>Swift</h4>
+<h5>Swift</h5>
 - <a href="https://github.com/DixieReed/Swift_weatherApp"{:target="_blank" rel="noopener"}>Basic Weather App</a>
 
 <!--
