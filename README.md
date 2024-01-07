@@ -8,7 +8,7 @@
 - Cybersecurity by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/V52FCP88C9H3">certificate</a> earned on June 20, 2023 
 
 <h2>🌱 I’m currently working on:</h2>
-- CompTIA Sec+ Certification <br>
+- CompTIA Sec+ Certification (Current Study Guide: <a href="https://www.diontraining.com/courses/comptia-security"><i>Dion Training</i></a>) <br>
 - Basic comprehension of Swift Programming Language <br>
 - ASU Principles of Programming: Learn more <a href="https://gostudyhall.com/courses/principles-of-programming-cse-110/">here</a>
 
