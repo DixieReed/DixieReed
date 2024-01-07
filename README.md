@@ -20,7 +20,7 @@
 <h2>📺 Coding Labs:</h2>
 <h5>HTML/CSS</h5>
 
-<h5>Swift</h5>
+<p>Swift</p>
 - <a href="https://github.com/DixieReed/Swift_weatherApp"{:target="_blank" rel="noopener"}>Basic Weather App</a>
 
 <!--
