@@ -19,9 +19,10 @@
 <br >
 
 <h2>📺 Coding Labs:</h2>
-<p>HTML/CSS</p>
+<p><strong>HTML/CSS</strong></p>
 
-<p>Swift<br> - <a href="https://github.com/DixieReed/Swift_weatherApp"{:target="_blank" rel="noopener"}> Basic Weather App</a>
+<p>
+</b><strong>Swift</strong><br> - <a href="https://github.com/DixieReed/Swift_weatherApp"{:target="_blank" rel="noopener"}> Basic Weather App</a>
 </p>
 <!--
 Here are some ideas to get you started:
