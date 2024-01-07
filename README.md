@@ -25,7 +25,7 @@
 - HTML
 
 <h4>Swift</h4>
-- Basic Weather App
+- <a href="https://github.com/DixieReed/Swift_weatherApp">Basic Weather App</a>
 
 <!--
 Here are some ideas to get you started:
