@@ -26,7 +26,7 @@
 - HTML
 
 <h4>Swift</h4>
-- <a href="https://github.com/DixieReed/Swift_weatherApp" target="_blank">Basic Weather App</a>
+- <a href="https://github.com/DixieReed/Swift_weatherApp"{:target="_blank" rel="noopener"}>Basic Weather App</a>
 
 <!--
 Here are some ideas to get you started:
