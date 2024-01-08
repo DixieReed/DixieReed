@@ -1,11 +1,11 @@
 <h1>Hi, I am Dixie! <br/>IT and Cyber Security Professional</h1>
 
 <h2>🔖 Certifications:</h2>
-- Data Analytics by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/CKA9LKY9XSVS">certificate</a> earned on October 1, 2023
+- Data Analytics by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/CKA9LKY9XSVS">certificate</a>
 <br>
-- IT Support by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/HDZBBNLPRYNA">certificate</a> earned on July 22, 2023
+- IT Support by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/HDZBBNLPRYNA">certificate</a> 
 <br>
-- Cybersecurity by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/V52FCP88C9H3">certificate</a> earned on June 20, 2023 
+- Cybersecurity by Google on Coursera, <a href="https://coursera.org/verify/professional-cert/V52FCP88C9H3">certificate</a>
 
 <h2>🌱 I’m currently working on:</h2>
 - CompTIA Sec+ Certification (Current Study Guide: <a href="https://www.diontraining.com/courses/comptia-security"><i>Dion Training</i></a>) <br>
