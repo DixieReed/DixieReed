@@ -10,7 +10,7 @@
 <h2>🌱 I’m currently working on:</h2>
 - CompTIA Sec+ Certification (Current Study Guide: <a href="https://www.diontraining.com/courses/comptia-security"><i>Dion Training</i></a>) <br>
 - Basic comprehension of Swift Programming Language <br>
-- ASU Principles of Programming: Learn more <a href="https://gostudyhall.com/courses/principles-of-programming-cse-110/">here</a> and find completed labs <a href="ADD LINK">here</a>
+- ASU Principles of Programming: Learn more <a href="https://gostudyhall.com/courses/principles-of-programming-cse-110/">here</a> and find completed labs <a href="https://github.com/DixieReed/CSE110PropertiesOfaCircleLab/tree/main">here</a>
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 -<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank" rel="noopener noreferrer"> Intro to Networking</a>
