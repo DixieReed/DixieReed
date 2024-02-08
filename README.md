@@ -17,7 +17,8 @@
  <br>
 - <Strong>Java:</Strong> Strong comprehension, reading, and Moderate writing &nbsp;  &nbsp;  &nbsp; &nbsp;- <Strong>HTML/CSS:</Strong> Moderate comprehension, reading, and writing <br>
 - <Strong>HTML/CSS:</Strong> Moderate comprehension, reading, and writing &nbsp;  &nbsp;  &nbsp;  &nbsp;  - <Strong>Python:</Strong> Moderate comprehension, reading, and Elemetry writing <br>
-- <Strong>R:</Strong> Moderate comprehension, reading, and Elementry writing &nbsp;  &nbsp;  &nbsp; - <Strong>Swift:</Strong> Elementry comprehension, reading, and writing <br>
+- <Strong>Swift:</Strong> Elementry comprehension, reading, and writing &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;- <Strong>R:</Strong> Moderate comprehension, reading, and Elementry writing <br>
+- <strong>SQL:</strong> Strong comprehension, reading, and Elementry writing  &nbsp; &nbsp;  &nbsp; &nbsp;- <strong>KQL</strong><i>(Kibana Query Language)</i> - Strong comprehension, reading, and  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  Elementry writing
 
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
@@ -46,4 +47,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  Space fill options
+  &nbsp;  \\ two spaces
+  &nbsp; \\ one space
 -->
