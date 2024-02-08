@@ -15,11 +15,10 @@
 <h2>💬 Coding Languages knowledge</h2>
  <i>*Skill Rating System: Basic, Moderate, Strong*</i> <br>
  <br>
-- <Strong>Java:</Strong> Strong comprehension, reading, and Moderate writing <br>
-- <Strong>HTML/CSS:</Strong> Moderate comprehension, reading, and writing <br>
-- <Strong>Python:</Strong> Moderate comprehension, reading, and Elemetry writing <br>
-- <Strong>R:</Strong> Moderate comprehension, reading, and Elementry writing <br>
-- <Strong>Swift:</Strong> Elementry comprehension, reading, and writing <br>
+- <Strong>Java:</Strong> Strong comprehension, reading, and Moderate writing &nbsp;  &nbsp;  &nbsp; &nbsp;- <Strong>HTML/CSS:</Strong> Moderate comprehension, reading, and writing <br>
+- <Strong>HTML/CSS:</Strong> Moderate comprehension, reading, and writing &nbsp;  &nbsp;  &nbsp;  &nbsp;  - <Strong>Python:</Strong> Moderate comprehension, reading, and Elemetry writing <br>
+- <Strong>R:</Strong> Moderate comprehension, reading, and Elementry writing &nbsp;  &nbsp;  &nbsp; - <Strong>Swift:</Strong> Elementry comprehension, reading, and writing <br>
+
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 -<a href="https://academy.hackthebox.com/achievement/842257/34" target="_blank" rel="noopener noreferrer"> Intro to Networking</a>
