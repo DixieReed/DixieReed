@@ -31,7 +31,7 @@ reading, and Elementry writing
 <h2>📺 Coding Labs:</h2>
 <p><strong>HTML/CSS</strong>
 <br>
-  - <a href="https://github.com/DixieReed/RegistrationFormBasic">HTML Registration Form</a>
+  - <a href="https://github.com/DixieReed/RegistrationFormBasic">HTML Registration Form</a> <br>
   - <a href="https://github.com/DixieReed/Cat-Photo-App/tree/main">Cat Photo App</a>
 </p>
 
