@@ -33,7 +33,7 @@ reading, and Elementry writing
 <br>
   - <a href="https://github.com/DixieReed/RegistrationFormBasic">HTML Registration Form</a> <br>
   - <a href="https://github.com/DixieReed/Cat-Photo-App/tree/main">Cat Photo App</a> <br>
-  - <a href="https://github.com/DixieReed/Cat-Photo-App/tree/main">Cat Photo App</a>
+  - <a href="https://github.com/DixieReed/Coffee-Shop-Menu">Coffee Shop Menu</a>
 </p>
 
 <p>
