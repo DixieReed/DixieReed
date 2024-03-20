@@ -33,8 +33,8 @@ reading, and Elementry writing
 <br>
   - <a href="https://github.com/DixieReed/RegistrationFormBasic">HTML Registration Form</a> <br>
   - <a href="https://github.com/DixieReed/Cat-Photo-App/tree/main">Cat Photo App</a> <br>
-  - <a href="https://github.com/DixieReed/Coffee-Shop-Menu">Coffee Shop Menu</a>
-</p>
+  - <a href="https://github.com/DixieReed/Coffee-Shop-Menu">Coffee Shop Menu</a> <br>
+  - <a href="https://github.com/DixieReed/CSS-Colored-Markers/tree/main">CSS Colored Markers</a>
 
 <p>
 </b><strong>Swift</strong><br> - <a href="https://github.com/DixieReed/Swift_weatherApp"{:target="_blank" rel="noopener"}> Basic Weather App</a>
